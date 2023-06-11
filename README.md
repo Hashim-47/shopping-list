@@ -4,7 +4,7 @@
 
 ---
 
-# Built using javascript HTML and CSS
+# Built using Javascript HTML and CSS
 
 - ** Hosted link:** : https://classy-hummingbird-670438.netlify.app
 
