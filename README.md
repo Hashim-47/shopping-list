@@ -6,7 +6,7 @@
 
 # Built using Javascript HTML and CSS
 
-- ** Hosted link:** : https://classy-hummingbird-670438.netlify.app
+- ** Hosted link: ** : https://fastidious-chebakia-edd0bd.netlify.app
 
 # Description
 
