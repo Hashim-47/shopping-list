@@ -1,6 +1,6 @@
 # **Shopping List Project**
 
-# **Built By Mohammed Hashim**
+# **By Mohammed Hashim**
 
 ---
 
